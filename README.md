@@ -20,7 +20,7 @@ git clone https://github.com/kipkurui26/client-cmp.git
 
 ### 2. Navigate into the Project Directory
 ```bash
-cd cmp-frontend
+cd client-cmp
 ```
 
 ### 3. Installing Dependencies
