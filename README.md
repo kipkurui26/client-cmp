@@ -10,12 +10,12 @@ You can clone the repository using **SSH** or **HTTPS**:
 
 **Using SSH**  
 ```bash
-git clone git@github.com:county-group/cmp-frontend.git   
+git clone git@github.com:kipkurui26/client-cmp.git  
 ```
 
 **Using HTTPS**
 ```bash
-git clone https://github.com/county-group/cmp-frontend.git
+git clone https://github.com/kipkurui26/client-cmp.git
 ```
 
 ### 2. Navigate into the Project Directory
